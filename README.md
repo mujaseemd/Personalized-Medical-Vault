@@ -132,6 +132,7 @@ The app will run at: http://localhost:3000
 ---
 
 🔄 Usage Flow
+
 🧑 Patient Flow
 Connect MetaMask
 
@@ -153,20 +154,9 @@ View list of patients who have shared access
 Access and read shared records
 ---
 
-🗂️ Project Structure
 
-bithealth/
-├── client/                # React frontend
-│   ├── public/
-│   └── src/
-├── contracts/             # Solidity smart contracts
-│   └── MedicalRecord.sol
-├── migrations/            # Truffle migration scripts
-├── test/                  # Smart contract test files
-├── truffle-config.js      # Truffle configuration
-└── README.md              # Project documentation
----
 🔐 Security & Privacy
+
 🛡️ Immutability ensured by blockchain
 
 🔐 Permissioned access via smart contracts
@@ -177,6 +167,7 @@ bithealth/
 
 ---
 🌟 Future Enhancements
+
 ⏳ Timed access control (auto-expiry)
 
 🩻 Specialization-based doctor filtering
@@ -195,6 +186,7 @@ bithealth/
 ---
 
 👥 Contributors
+
 Team BitHealth – PES University:
 
 Mujaseem D (PES1UG22CS363)
