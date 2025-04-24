@@ -116,11 +116,13 @@ truffle migrate --network development
 ---
 
 🔗 Configure MetaMask
+
 Connect MetaMask to http://localhost:7545
 
 Import an account using Ganache private key
 
 📁 Set Up IPFS via Pinata
+
 Create an account on Pinata
 
 Generate API Key & Secret
@@ -130,8 +132,11 @@ Add your Pinata API keys to project config (.env or config file)
 🖥️ Start the Frontend
 
 cd client
+
 npm install
+
 npm start
+
 The app will run at: http://localhost:3000
 
 ---
