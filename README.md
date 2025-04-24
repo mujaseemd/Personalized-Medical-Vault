@@ -193,6 +193,6 @@ Mujaseem D (PES1UG22CS363)
 
 N Swetha (PES1UG22CS368)
 
-Likhit Avinash V (PES1UG22CS304)
-
 Kripa S Rai (PES1UG22CS291)
+
+Likhit Avinash V (PES1UG22CS304)
