@@ -92,19 +92,25 @@ Patient ↔ React UI ↔ Web3.js ↔ Ethereum Smart Contract ↔ IPFS ↕ MetaMa
 
 ### ⚙️ Setup Steps
 
-bash
-# Clone the repository
+---
+ Clone the repository
+ ---
 git clone https://github.com/username/bithealth.git
 
 cd bithealth
-
-# Install backend and smart contract dependencies
+---
+ Install backend and smart contract dependencies
+ ---
 npm install
 
-# Start Ganache on port 7545
+---
+Start Ganache on port 7545
+---
 ganache-cli --port 7545
 
-# Compile and deploy smart contracts
+---
+Compile and deploy smart contracts
+---
 truffle migrate --network development
 
 ---
@@ -131,8 +137,9 @@ The app will run at: http://localhost:3000
 ---
 
 🔄 Usage Flow
-
+---
 🧑 Patient Flow
+---
 Connect MetaMask
 
 Register as a patient
@@ -143,7 +150,9 @@ Grant or revoke access to doctors
 
 View personal record history
 
+---
 👨‍⚕️ Doctor Flow
+---
 Connect MetaMask
 
 Register as a doctor
