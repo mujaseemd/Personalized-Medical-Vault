@@ -95,6 +95,7 @@ Patient ↔ React UI ↔ Web3.js ↔ Ethereum Smart Contract ↔ IPFS ↕ MetaMa
 bash
 # Clone the repository
 git clone https://github.com/username/bithealth.git
+
 cd bithealth
 
 # Install backend and smart contract dependencies
@@ -121,9 +122,7 @@ Generate API Key & Secret
 Add your Pinata API keys to project config (.env or config file)
 
 🖥️ Start the Frontend
-bash
-Copy
-Edit
+
 cd client
 npm install
 npm start
@@ -151,11 +150,12 @@ Register as a doctor
 
 View list of patients who have shared access
 
-Access and read shared records
+Access to shared records
+
 ---
 
-
 🔐 Security & Privacy
+---
 
 🛡️ Immutability ensured by blockchain
 
@@ -167,7 +167,7 @@ Access and read shared records
 
 ---
 🌟 Future Enhancements
-
+---
 ⏳ Timed access control (auto-expiry)
 
 🩻 Specialization-based doctor filtering
@@ -183,11 +183,13 @@ Access and read shared records
 🔒 Enhanced end-to-end encryption
 
 🕵️‍♂️ Zero-knowledge proof-based access
+
 ---
-
 👥 Contributors
-
+---
+---
 Team BitHealth – PES University:
+---
 
 Mujaseem D (PES1UG22CS363)
 
