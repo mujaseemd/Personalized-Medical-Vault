@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const PINATA_API_KEY = '34d6561de15d07716020';
-const PINATA_SECRET_API_KEY = '1fc721d0b8fce8edc12eb93e8eb72965abf831b462304238cef3ff28bcf94b66';
+const PINATA_SECRET_API_KEY = 'Secret_key';
 
 export const uploadToPinata = async (file) => {
   const url = `https://api.pinata.cloud/pinning/pinFileToIPFS`;
