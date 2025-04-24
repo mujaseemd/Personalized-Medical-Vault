@@ -98,19 +98,19 @@ Patient ↔ React UI ↔ Web3.js ↔ Ethereum Smart Contract ↔ IPFS ↕ MetaMa
 git clone https://github.com/username/bithealth.git
 
 cd bithealth
----
+
  Install backend and smart contract dependencies
- ---
+ 
 npm install
 
----
+
 Start Ganache on port 7545
----
+
 ganache-cli --port 7545
 
----
+
 Compile and deploy smart contracts
----
+
 truffle migrate --network development
 
 ---
